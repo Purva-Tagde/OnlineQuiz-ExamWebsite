@@ -27,7 +27,7 @@ Secure user authentication (Login/Signup)
 
 Responsive UI built for mobile and desktop
 
-Cloud database using MongoDB Atlas
+Cloud database using MongoDB Compass
 
 Faculty and Student role-based access
 
@@ -35,7 +35,7 @@ Faculty and Student role-based access
 Component	Technology
 Frontend	React.js, HTML5, CSS3, JavaScript
 Backend	Node.js, Express.js
-Database	MongoDB Atlas (connected via Compass & Mongoose)
+Database	MongoDB Compass (connected via Compass & Mongoose)
 Authentication	JWT (JSON Web Token)
 Hosting (Optional)	GitHub / Vercel / Render
 📁 Project Structure
